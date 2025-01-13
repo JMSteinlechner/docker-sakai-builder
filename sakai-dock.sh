@@ -24,7 +24,7 @@ DEPLOY="${TOMCAT}/deploy"
 SAKAIHOME="${TOMCAT}/sakaihome"
 
 # Which maven container to use
-MAVEN_IMAGE="markhobson/maven-chrome:jdk-17"
+MAVEN_IMAGE="markhobson/maven-chrome:jdk-11"
 
 # Any extra options to pass to maven
 MVN_EXTRA_OPTS="-Dmaven.plugin.validation=DEFAULT"
