@@ -1,0 +1,4 @@
+[submodule "sakai"]
+	path = sakai
+	url = https://github.com/JMSteinlechner/sakai.git
+	branch = 23.x
